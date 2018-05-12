@@ -1,0 +1,29 @@
+_repo: Algumas-li--es-de-psicologia-e-pedologia_32072
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ferreira, António Aurélio da Costa
+    alias: Ferreira, Antonio Aurelio da Costa
+    birthdate: 1879
+    deathdate: 1922
+    gutenberg_agent_id: '35652'
+    url: http://www.gutenberg.org/2009/agents/35652
+description: ''
+gutenberg_issued: '2010-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32072'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Child psychology'
+- !lcc 'BF'
+- !lcc 'LB'
+- !lcsh 'Educational psychology'
+title: Algumas lições de psicologia e pedologia
+url: http://www.gutenberg.org/ebooks/32072
